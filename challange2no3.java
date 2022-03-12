@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class challange2 {
+public class challange2no3 {
     public static void main(String[] args) {
 
 
