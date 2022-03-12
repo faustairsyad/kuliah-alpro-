@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class challange2 {
+public class challange2no2 {
     public static void main(String[] args) {
 
 
@@ -296,7 +296,7 @@ public class challange2 {
          if (jumlahkeluarga > 10) { 
              
               System.out.println("maaf jumlah keluarga anda terlalu banyak. sebaiknya anda membuat team bola");
-              System.out.println("ibuk = :( ");
+              System.out.println("ibu = ibu anda sangat hebat :( ");
              
          }
         
