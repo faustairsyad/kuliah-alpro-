@@ -12,7 +12,7 @@ public class challange2no3 {
           System.out.print("masukkan suhu yang mau diubah =");
             float suhu_celcius = UserInput.nextFloat();
           
-          double hasil = suhu_celcius - 273,15
+          double hasil = suhu_celcius + 273,15
             System.out.println("hasil convert" + " " + hasil + "K");
         } else {
             System.out.println("yah sayang sekali, selamat tinggal :)");
